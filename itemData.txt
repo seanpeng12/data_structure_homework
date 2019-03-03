@@ -1,0 +1,4 @@
+Pen  100
+Ink    50
+Pen   150
+Paper   20
